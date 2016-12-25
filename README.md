@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/rafszul/dark-digital-blue-deprecated/master/src/assets/manifest-ico-sq.svg)
+![](https://raw.githubusercontent.com/rafszul/dark-digital-blue-deprecated/master/src/assets/manifest-ico-sq-512.png)
 
 # DarkDigitalBlueDeprecated
 
